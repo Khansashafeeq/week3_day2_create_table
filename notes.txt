@@ -1,0 +1,8 @@
+To execute the commands:
+1. Type each SQL command in the postgres=# prompt.
+2. End each command with a semicolon ;.
+3. Press Enter to run the command.
+cmds
+CREATE TABLE- to create table
+INSERT INTO - to insert the values
+SELECT * FROM students;
